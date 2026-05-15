@@ -128,7 +128,6 @@ oluşturur.
 # Visualization / Grafikler
 
 
-![GRAFİK](rapor/grafik.png)
 
 ## Generated Graphs / Oluşturulan Grafikler
 
@@ -146,11 +145,8 @@ oluşturur.
 
 # Graph Preview / Grafik Önizleme
 
-## Add your graph screenshot here
 
-```md id="1kffhv"
-![Graph Preview](rapor/grafik.png)
-```
+![GRAFİK](rapor/grafik.png)
 
 ---
 
